@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Light";
+    src: url("../fonts/Light.ttf");
+}
+
+@font-face {
+    font-family: "Regular";
+    src: url("../fonts/Regular.ttf");
+}
+
+@font-face {
+    font-family: "SemiBold";
+    src: url("../fonts/SemiBold.ttf");
+}
+
+@font-face {
+    font-family: "Bold";
+    src: url("../fonts/Bold.ttf");
+}
+
+@font-face {
+    font-family: "Black";
+    src: url("../fonts/Black.ttf");
+}
